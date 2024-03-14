@@ -1,9 +1,16 @@
-# repository_of_mini_projects_through_Aiffel
----
-_E01_rps : Classification of Rock_Paer_Scissor  with tensorflow, keras
 
-_E02_dwb : Classification of Digits and Wine and Breast_cancer  with scikit-learn
+# Fundamental Deep Learning Projects
+2020 Jun - Nov 
+## Basic Machine Learning Tasks
+classifications, regressions
+Face-Detection : E-03 (Dlib)
+Face-recognition : E-07
+## Basic Deep Learning Tasks
+### Classifications
+NSMC : E-03 (LSTM)
+Speech data : E-05
 
-_E03_sticker : Face detection, Face landmark
+, KorQuad, SQuAD 1.0, 
+### Generation
+Text : E-06 (LSTM)
 
-_E04_NLP1 : movie review analysis
